@@ -1,0 +1,48 @@
+[33mcommit cb8965ed4da335b6cc483fca140010c8a23438d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: roger <roger@teste.com>
+Date:   Mon Jul 15 21:15:28 2024 -0300
+
+    exclusão de arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m24[m -> [32m0[m bytes
+ arquivo2.txt | Bin [31m32[m -> [32m0[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 69fae01dfe07a5f9ade255f823b9c475e002f3e3[m
+Author: roger <roger@teste.com>
+Date:   Sun Jul 14 23:38:46 2024 -0300
+
+    inclusão changelog.md
+
+ changelog.md | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
+
+[33mcommit 06dd3ab2b29a3dbbdfa739a06616d6a88d934744[m
+Author: roger <roger@teste.com>
+Date:   Sun Jul 14 23:19:33 2024 -0300
+
+    frase alterada no arquivo.txt
+
+ arquivo.txt | Bin [31m44[m -> [32m24[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 3272ce9d26b89431d265a4e4b83c834fd43a3508[m
+Author: roger <roger@teste.com>
+Date:   Sun Jul 14 23:15:08 2024 -0300
+
+    alterando o conteudo do arquivo.txt
+
+ arquivo.txt | Bin [31m74[m -> [32m44[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 51515c95ff359e6cfe97557d64fae28ded3bd8fa[m
+Author: roger <roger@teste.com>
+Date:   Sun Jul 14 23:07:19 2024 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos : arquivo.txt e arquivo2.txt
+
+ arquivo.txt  |   2 [32m++[m
+ arquivo2.txt | Bin [31m0[m -> [32m32[m bytes
+ 2 files changed, 2 insertions(+)
